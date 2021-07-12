@@ -877,8 +877,8 @@ STR_1487    :“Solo guardando {STRINGID} mi sento male”
 STR_1488    :“Non pagherò così tanto per andare su {STRINGID}”
 STR_1489    :“Voglio tornare a casa”
 STR_1490    :“{STRINGID} è a buon mercato”
-STR_1491    :“Ho già: {STRINGID}”
-STR_1492    :“Non posso permettermi: {STRINGID}”
+STR_1491    :“Ho già {STRINGID}”
+STR_1492    :“Non posso permettermi {STRINGID}”
 STR_1493    :“Non ho fame”
 STR_1494    :“Non ho sete”
 STR_1495    :“Aiuto!!! Sto annegando!”
@@ -3646,7 +3646,7 @@ STR_6392    :Impossibile trovare {STRING} in questo percorso.
 STR_6393    :Selezione obiettivo
 STR_6394    :Obiettivo
 STR_6395    :Manutenzione
-STR_6396    :Disattiva screensaver e risparmio energetico dello schermo
+STR_6396    :Blocca screensaver e risparmio energetico schermo
 STR_6397    :Se attivato, le funzionalità di screensaver e di risparmio energetico dello schermo saranno disabilitate mentre OpenRCT2 è in esecuzione.
 STR_6398    :Il file contiene tipi di percorsi non supportati. Aggiornare a una nuova versione di OpenRCT2.
 STR_6399    :OpenRCT2 necessita dei file originali di RollerCoaster Tycoon 2 per funzionare. Impostare la variabile “game_path” nel file config.ini al percorso nel quale è installato RollerCoaster Tycoon 2, dopodiché riavviare OpenRCT2.
